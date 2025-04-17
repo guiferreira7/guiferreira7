@@ -1,18 +1,33 @@
-## Olá, Eu sou Guilherme Ferreira
+<h1 align="center">👋 Olá! Eu sou o Guilherme Ferreira</h1>
+<p align="center">💻 Estudante de tecnologia com foco em <strong>Defesa Cibernética</strong> | 17 anos | Osasco - SP</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Em busca da minha primeira oportunidade na área de tecnologia  
+- 🌱 Estudando: **HTML**, **CSS**, **Banco de Dados (SQL)**, **ASP.NET com MVC**, **Windows Forms com .NET Framework**  
+- 🎓 Participei de diversos cursos do **Google**, com selos e certificados visíveis no meu [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
+- 🛡️ Sou extremamente curioso sobre **Cibersegurança** e quero seguir carreira nessa área, ajudando a proteger sistemas e dados com responsabilidade e ética  
+- 🧠 Tenho facilidade em aprender de forma autodidata e estou sempre buscando novos desafios e tecnologias  
+- 📫 Entre em contato: guilherme.francisco.rocha@gmail.com  
+- ⚡ Fun fact: Meu interesse por tecnologia começou jogando online — hoje quero entender tudo que acontece "por trás da tela"
+
+---
+
+### 🛠️ Tecnologias Desenvolvidas
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-- 🔭 Atualmente estou em busca da primeira experiência na área da tecnologia.
-- 🌱 Estou estudando HTML, CSS, Banco de Dados, ASP.NET com (MVC), Windows Forms com .NET Framework.
-- 👯 Estou disposto a conhecer diversas áreas em tecnologia, porém tenho interesse em Defesa Cibernética.
-- 📫 Contate-me : guilherme.francisco.rocha@gmail.com
-- ⚡ Fun fact: Gosto de jogar jogos online
+---
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+###  Vamos conectar?
 
-## 📲 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.francisco.rocha@gmail.com)
 
-<a href = "mailto:guilherme.francisco.rocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
