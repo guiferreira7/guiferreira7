@@ -6,7 +6,7 @@
 ### 🚀 Sobre mim
 
 - 🔭 Em busca da minha primeira oportunidade na área de tecnologia  
-- 🌱 Estudando: **HTML**, **CSS**, **Banco de Dados (SQL)**, **ASP.NET com MVC**, **Windows Forms com .NET Framework**  
+- 🌱 Estudando: **HTML**, **CSS**, **Banco de Dados (SQL)**, **ASP.NET com MVC**, **Windows Forms com .NET Framework**, **Inteligência Artificial**  
 - 🎓 Participei de diversos cursos do **Google**, com selos e certificados visíveis no meu [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
 - 🛡️ Sou extremamente curioso sobre **Cibersegurança** e quero seguir carreira nessa área, ajudando a proteger sistemas e dados com responsabilidade e ética  
 - 🧠 Tenho facilidade em aprender de forma autodidata e estou sempre buscando novos desafios e tecnologias  
