@@ -8,10 +8,10 @@
 - 🔭 Em busca da minha primeira oportunidade na área de tecnologia  
 - 🌱 Estudando: **HTML**, **CSS**, **Banco de Dados (SQL)**, **ASP.NET com MVC**, **Windows Forms com .NET Framework**, **Inteligência Artificial**  
 - 🎓 Participei de diversos cursos do **Google**, com selos e certificados visíveis no meu [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
-- 🛡️ Sou extremamente curioso sobre **Cibersegurança** e quero seguir carreira nessa área, ajudando a proteger sistemas e dados com responsabilidade e ética  
+- 🛡️ Tenho interesse em **Cibersegurança** e quero seguir carreira nessa área, ajudando a proteger sistemas e dados com responsabilidade e ética  
 - 🧠 Tenho facilidade em aprender de forma autodidata e estou sempre buscando novos desafios e tecnologias  
 - 📫 Entre em contato: guilherme.francisco.rocha@gmail.com  
-- ⚡ Fun fact: Meu interesse por tecnologia começou jogando online — hoje quero entender tudo que acontece "por trás da tela"
+- ⚡ Fun fact: Meu interesse por tecnologia começou apartir dos jogos, eu queria saber como tudo era feito e hoje posso chegar um pouco mais perto para aprender
 
 ---
 
