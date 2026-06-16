@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Guilherme Ferreira</h1>
+<h1 align="center"> Olá! Eu sou o Guilherme Ferreira</h1>
 <p align="center">💻 Estudante de tecnologia com foco em <strong>Defesa Cibernética</strong> | 17 anos | Osasco - SP</p>
 
 ---
