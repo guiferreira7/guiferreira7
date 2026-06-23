@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Jovem+Aprendiz+%E2%80%94+Banco+Bradesco;Estudante+de+Ci%C3%AAncia+de+Dados+%40+FIAP;Autodidata+em+Power+BI+%26+Power+Automate;Transformando+dados+em+decis%C3%B5es+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Data+Analytics+%40+Banco+Bradesco;Ci%C3%AAncia+de+Dados+%40+FIAP;Business+Analytics+%26+Automa%C3%A7%C3%A3o;Foco+em+Efici%C3%AAncia+Operacional" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,27 +24,27 @@
 
 ## 👨‍💻 Sobre Mim
 
-Tenho 18 anos, sou de Osasco — SP, e trabalho como **Jovem Aprendiz no Banco Bradesco**, onde atuo com **Data Analytics** no departamento de Compras e Patrimônio.
+Sou um profissional focado em **Business Analytics**, com experiência prática na estruturação de soluções de dados que otimizam a eficiência operacional e direcionam a estratégia de negócios[cite: 5]. Atualmente, trabalho com **Data Analytics no Banco Bradesco**[cite: 5], traduzindo necessidades corporativas em ferramentas tecnológicas de visualização e automação[cite: 5].
 
-Sou autodidata. Aprendi Power BI e Power Automate por conta própria enquanto já entregava soluções reais para gestores e superintendentes. Meu foco é transformar dados em decisões — substituindo planilhas manuais por dashboards interativos e fluxos automáticos que geram impacto de verdade.
+Mais do que criar painéis, meu foco é resolver problemas. Atuo de forma autônoma substituindo controles manuais por inteligência acionável e gerando previsibilidade para a liderança[cite: 5]. 
 
-Curso **Tecnologia em Ciência de Dados na FIAP** e sigo desenvolvendo minhas habilidades em Python, SQL e Cloud todos os dias.
+Estudante de **Ciência de Dados na FIAP**[cite: 5], busco sempre integrar minha base técnica e o desenvolvimento contínuo em Python, SQL e Cloud com uma forte visão comercial[cite: 5].
 
 <br/>
 
-> 💡 *"Não espero ter permissão para aprender — aprendo e entrego."*
+> 💡 *"Mais do que análises ou visualizações: estruturando soluções de dados que guiam a liderança."*
 
 ---
 
-## 🏆 Entregas Reais no Bradesco
+## 🏆 Principais Entregas e Impactos
 
-> Projetos desenvolvidos por iniciativa própria — 100% autodidata
+> Soluções corporativas desenvolvidas com foco em geração de valor[cite: 5].
 
 | 🚀 Projeto | 📋 Descrição | 🛠️ Ferramentas |
 |---|---|---|
-| **People Analytics** | Dashboard mapeando 500+ colaboradores — gênero, PCD, promoções e progressão salarial. Apresentado à gerência e superintendência. | Power BI · DAX |
-| **Orçamento de Eventos** | Painel interativo para budget anual ~R$1,2M com forecast vs. realizado por vertical. Substituiu planilhas estáticas. | Power BI · Power Query |
-| **Automação de Mailing** | Fluxo inteligente que captura formulários, cruza com Office 365 e atualiza o mailing interno automaticamente. Saving de 15% na capacidade semanal. | Power Automate · Office 365 |
+| **People Analytics** | Dashboard estruturado do zero para a gestão de 500+ colaboradores[cite: 5]. Centraliza métricas demográficas (gênero, PCD) e de progressão salarial, entregando visibilidade instantânea para superintendentes[cite: 5]. | Power BI · DAX |
+| **Governança Financeira** | Dashboard interativo para o acompanhamento orçamentário do budget de eventos em escala milionária[cite: 5]. Trouxe previsibilidade imediata de cenários *forecast vs. realizado* e eliminou planilhas manuais[cite: 5]. | Power BI · Power Query |
+| **Automação de Processos** | Fluxo inteligente criado para o onboarding em mailings internos[cite: 5]. O sistema cruza respostas com perfis do Office 365, eliminando falhas operacionais e gerando um *saving* de 15% na capacidade semanal[cite: 5]. | Power Automate · Office 365 |
 
 ---
 
@@ -74,11 +74,10 @@ Curso **Tecnologia em Ciência de Dados na FIAP** e sigo desenvolvendo minhas ha
 
 ## 📌 Atualmente
 
-- 🏦 Trabalhando no **Banco Bradesco** como Jovem Aprendiz — Data Analytics
-- 📚 Cursando **Ciência de Dados na FIAP** (previsão de formatura: 02/2028)
-- 🐍 Evoluindo em **Python para análise de dados**
-- ☁️ Explorando **Databricks e SQL avançado**
-- 🎯 Buscando oportunidades de **estágio em dados e tecnologia**
+- 🏦 Atuando com **Data Analytics** no **Banco Bradesco**[cite: 5]
+- 📚 Cursando **Ciência de Dados na FIAP** (previsão de formatura: 02/2028)[cite: 5]
+- 🐍 Desenvolvendo lógica técnica e contínua em **Python, SQL e Cloud**[cite: 5]
+- 🎯 Buscando desafios que unam **tecnologia de dados e estratégia de negócios**[cite: 5]
 
 ---
 
