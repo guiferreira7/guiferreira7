@@ -40,7 +40,7 @@ Estudante de **Ciência de Dados na FIAP**, busco sempre integrar minha base té
 |---|---|---|
 | **People Analytics** | Dashboard estruturado do zero para a gestão de 500+ colaboradores. Centraliza métricas demográficas (gênero, PCD) e de progressão salarial, entregando visibilidade instantânea para superintendentes. | Power BI · DAX |
 | **Governança Financeira** | Dashboard interativo para o acompanhamento orçamentário do budget de eventos em escala milionária. Trouxe previsibilidade imediata de cenários *forecast vs. realizado* e eliminou planilhas manuais. | Power BI · Power Query |
-| **Automação de Processos** | Fluxo inteligente criado para o onboarding em mailings internos. O sistema cruza respostas com perfis do Office 365, eliminando falhas operacionais e gerando um *saving* de 15% na capacidade semanal. | Power Automate · Office 365 |
+| **Automação de Processos** | Fluxo inteligente criado para o onboarding em mailings internos. O sistema cruza respostas com perfis do Office 365, eliminando falhas operacionais e gerando um saving de 0.5 FTE em tarefas manuais. | Power Automate · Office 365 |
 
 ---
 
