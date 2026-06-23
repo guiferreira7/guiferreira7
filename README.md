@@ -24,11 +24,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional focado em **Business Analytics**, com experiência prática na estruturação de soluções de dados que otimizam a eficiência operacional e direcionam a estratégia de negócios[cite: 5]. Atualmente, trabalho com **Data Analytics no Banco Bradesco**[cite: 5], traduzindo necessidades corporativas em ferramentas tecnológicas de visualização e automação[cite: 5].
+Sou um profissional focado em **Business Analytics**, com experiência prática na estruturação de soluções de dados que otimizam a eficiência operacional e direcionam a estratégia de negócios. Atualmente, trabalho com **Data Analytics no Banco Bradesco**, traduzindo necessidades corporativas em ferramentas tecnológicas de visualização e automação.
 
-Mais do que criar painéis, meu foco é resolver problemas. Atuo de forma autônoma substituindo controles manuais por inteligência acionável e gerando previsibilidade para a liderança[cite: 5]. 
+Mais do que criar painéis, meu foco é resolver problemas. Atuo de forma autônoma substituindo controles manuais por inteligência acionável e gerando previsibilidade para a liderança. 
 
-Estudante de **Ciência de Dados na FIAP**[cite: 5], busco sempre integrar minha base técnica e o desenvolvimento contínuo em Python, SQL e Cloud com uma forte visão comercial[cite: 5].
+Estudante de **Ciência de Dados na FIAP**, busco sempre integrar minha base técnica e o desenvolvimento contínuo em Python, SQL e Cloud com uma forte visão comercial.
 
 <br/>
 
@@ -38,13 +38,13 @@ Estudante de **Ciência de Dados na FIAP**[cite: 5], busco sempre integrar minha
 
 ## 🏆 Principais Entregas e Impactos
 
-> Soluções corporativas desenvolvidas com foco em geração de valor[cite: 5].
+> Soluções corporativas desenvolvidas com foco em geração de valor.
 
 | 🚀 Projeto | 📋 Descrição | 🛠️ Ferramentas |
 |---|---|---|
-| **People Analytics** | Dashboard estruturado do zero para a gestão de 500+ colaboradores[cite: 5]. Centraliza métricas demográficas (gênero, PCD) e de progressão salarial, entregando visibilidade instantânea para superintendentes[cite: 5]. | Power BI · DAX |
-| **Governança Financeira** | Dashboard interativo para o acompanhamento orçamentário do budget de eventos em escala milionária[cite: 5]. Trouxe previsibilidade imediata de cenários *forecast vs. realizado* e eliminou planilhas manuais[cite: 5]. | Power BI · Power Query |
-| **Automação de Processos** | Fluxo inteligente criado para o onboarding em mailings internos[cite: 5]. O sistema cruza respostas com perfis do Office 365, eliminando falhas operacionais e gerando um *saving* de 15% na capacidade semanal[cite: 5]. | Power Automate · Office 365 |
+| **People Analytics** | Dashboard estruturado do zero para a gestão de 500+ colaboradores. Centraliza métricas demográficas (gênero, PCD) e de progressão salarial, entregando visibilidade instantânea para superintendentes. | Power BI · DAX |
+| **Governança Financeira** | Dashboard interativo para o acompanhamento orçamentário do budget de eventos em escala milionária. Trouxe previsibilidade imediata de cenários *forecast vs. realizado* e eliminou planilhas manuais. | Power BI · Power Query |
+| **Automação de Processos** | Fluxo inteligente criado para o onboarding em mailings internos. O sistema cruza respostas com perfis do Office 365, eliminando falhas operacionais e gerando um *saving* de 15% na capacidade semanal. | Power Automate · Office 365 |
 
 ---
 
@@ -74,10 +74,10 @@ Estudante de **Ciência de Dados na FIAP**[cite: 5], busco sempre integrar minha
 
 ## 📌 Atualmente
 
-- 🏦 Atuando com **Data Analytics** no **Banco Bradesco**[cite: 5]
-- 📚 Cursando **Ciência de Dados na FIAP** (previsão de formatura: 02/2028)[cite: 5]
-- 🐍 Desenvolvendo lógica técnica e contínua em **Python, SQL e Cloud**[cite: 5]
-- 🎯 Buscando desafios que unam **tecnologia de dados e estratégia de negócios**[cite: 5]
+- 🏦 Atuando com **Data Analytics** no **Banco Bradesco**
+- 📚 Cursando **Ciência de Dados na FIAP** (previsão de formatura: 02/2028)
+- 🐍 Desenvolvendo lógica técnica e contínua em **Python, SQL e Cloud**
+- 🎯 Buscando desafios que unam **tecnologia de dados e estratégia de negócios**
 
 ---
 
