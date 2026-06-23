@@ -24,17 +24,15 @@
 
 ## 👨‍💻 Sobre Mim
 
-```python
-guilherme = {
-    "localização":   "Osasco, SP — Brasil",
-    "empresa":       "Banco Bradesco | Depto. de Compras e Patrimônio",
-    "cargo":         "Jovem Aprendiz — Data Analytics",
-    "faculdade":     "FIAP — Tecnólogo em Ciência de Dados (2026–2028)",
-    "foco":          ["Business Intelligence", "Automação de Processos", "People Analytics"],
-    "aprendendo":    ["Python para Análise de Dados", "SQL Avançado", "Databricks"],
-    "missão":        "Substituir planilhas manuais por inteligência acionável 📊"
-}
-```
+Tenho 18 anos, sou de Osasco — SP, e trabalho como **Jovem Aprendiz no Banco Bradesco**, onde atuo com **Data Analytics** no departamento de Compras e Patrimônio.
+
+Sou autodidata. Aprendi Power BI e Power Automate por conta própria enquanto já entregava soluções reais para gestores e superintendentes. Meu foco é transformar dados em decisões — substituindo planilhas manuais por dashboards interativos e fluxos automáticos que geram impacto de verdade.
+
+Curso **Tecnologia em Ciência de Dados na FIAP** e sigo desenvolvendo minhas habilidades em Python, SQL e Cloud todos os dias.
+
+<br/>
+
+> 💡 *"Não espero ter permissão para aprender — aprendo e entrego."*
 
 ---
 
@@ -74,16 +72,13 @@ guilherme = {
 
 ---
 
-## 📊 Estatísticas
+## 📌 Atualmente
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guiferreira7&show_icons=true&theme=default&title_color=1A73E8&icon_color=1A73E8&border_color=DADCE0&count_private=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiferreira7&layout=compact&theme=default&title_color=1A73E8&border_color=DADCE0&locale=pt-br" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guiferreira7&locale=pt_BR&date_format=j%20M%5B%20Y%5D&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8&border=DADCE0" />
-</div>
+- 🏦 Trabalhando no **Banco Bradesco** como Jovem Aprendiz — Data Analytics
+- 📚 Cursando **Ciência de Dados na FIAP** (previsão de formatura: 02/2028)
+- 🐍 Evoluindo em **Python para análise de dados**
+- ☁️ Explorando **Databricks e SQL avançado**
+- 🎯 Buscando oportunidades de **estágio em dados e tecnologia**
 
 ---
 
