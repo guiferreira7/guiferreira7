@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Data+Analytics+%40+Banco+Bradesco;Ci%C3%AAncia+de+Dados+%40+FIAP;Business+Analytics+%26+Automa%C3%A7%C3%A3o;Foco+em+Efici%C3%AAncia+Operacional" alt="Typing SVG" />
-  </a>
+  <h3>Business Analytics & Automação: Substituindo processos manuais por inteligência acionável. 🚀</h3>
 </div>
 
 <br/>
