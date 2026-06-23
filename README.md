@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Business Analytics & Automação: Substituindo processos manuais por inteligência acionável. 🚀</h3>
+  <h3>Data-driven solutions for business efficiency. 💡</h3>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Sou um profissional focado em **Business Analytics**, com experiência prática na estruturação de soluções de dados que otimizam a eficiência operacional e direcionam a estratégia de negócios. Atualmente, trabalho com **Data Analytics no Banco Bradesco**, traduzindo necessidades corporativas em ferramentas tecnológicas de visualização e automação.
 
@@ -29,8 +29,6 @@ Mais do que criar painéis, meu foco é resolver problemas. Atuo de forma autôn
 Estudante de **Ciência de Dados na FIAP**, busco sempre integrar minha base técnica e o desenvolvimento contínuo em Python, SQL e Cloud com uma forte visão comercial.
 
 <br/>
-
-> 💡 *"Mais do que análises ou visualizações: estruturando soluções de dados que guiam a liderança."*
 
 ---
 
